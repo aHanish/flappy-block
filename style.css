@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#score-el{
+    position: absolute;
+    z-index: 1;
+    top: 10px;
+    left: 10px;
+    font-size: 20px;
+    color: #E1E2EB;
+}
